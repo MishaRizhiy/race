@@ -1,0 +1,6 @@
+﻿  KURSOVA.cpp
+c:\users\mike_red\source\repos\project11\project11\header.h(14): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\mike_red\source\repos\project11\project11\header.h(106): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\mike_red\source\repos\project11\project11\header.h(160): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\mike_red\source\repos\project11\project11\header.h(177): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Project11.vcxproj -> C:\Users\mike_red\source\repos\Project11\Debug\Project11.exe
